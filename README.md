@@ -9,6 +9,7 @@ Paquete para crear rápidamente un entorno de desarrollo Front-end MUY simple.
 | 📦[Parcel](https://parceljs.org/)                      | Bundler para aplicaciones web                                              |
 | 🌐[Javascript](https://www.typescriptlang.org/)        | Lenguaje de programación                                                   |
 | ⚛️[React](https://es.reactjs.org/)                     | JavaScript Framework                                                       |
+| 💅[Emotion](https://emotion.sh/)                       | CSS in JS - Permite usar Styled-Components                                 |
 | 👁️[Eslint](https://eslint.org/)                        | Linter para controlar errores en nuestro código                            |
 | 👁️[Stylelint](https://stylelint.io/)                   | Linter para controlar errores en nuestros estilos                          |
 | 🐺[Husky](https://www.npmjs.com/package/husky)         | Comprueba errores en nuestro código para evitar errores en nuestros commit |
