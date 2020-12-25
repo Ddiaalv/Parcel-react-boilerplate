@@ -16,14 +16,12 @@
   "author": "David Díaz Alvarez",
   "license": "ISC",
   "dependencies": {
-    "@babel/core": "^7.12.10",
     "@emotion/react": "^11.1.4",
     "@emotion/styled": "^11.0.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   },
   "devDependencies": {
-    "cssnano": "^4.1.10",
     "eslint": "^7.16.0",
     "eslint-config-prettier": "^7.1.0",
     "eslint-config-standard": "^16.0.2",
