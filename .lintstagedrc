@@ -1,5 +1,5 @@
 {
-  "*.js": "npx eslint --fix",
+  "*.{js,jsx}": "npx eslint --fix",
   "*.{scss,css}": "npx stylelint --fix",
-  "*.{html,scss,css,js}": "npx prettier --write"
+  "*.{html,scss,css,js,jsx}": "npx prettier --write"
 }

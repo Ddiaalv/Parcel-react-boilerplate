@@ -7,13 +7,19 @@
     "start": "parcel ./src/index.html",
     "build": "parcel build ./src/index.html ./",
     "lintcss": "npx stylelint --fix src/**/*.scss",
-    "lintjs": "npx eslint --fix src/**/*.js",
-    "format": "npx prettier --write ./src/**/*.{html,css,js}",
+    "lintjs": "npx eslint --fix src/**/*.{js,jsx}",
+    "format": "npx prettier --write ./src/**/*.{html,css,js,jsx}",
     "precommit": "lint-staged"
   },
   "keywords": [],
   "author": "David Díaz Alvarez",
   "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.12.10",
+    "@emotion/react": "^11.1.4",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
   "devDependencies": {
     "cssnano": "^4.1.10",
     "eslint": "^7.16.0",
@@ -23,6 +29,7 @@
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-prettier": "^3.3.0",
     "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-react": "^7.21.5",
     "husky": "^4.3.6",
     "lint-staged": "^10.5.3",
     "prettier": "2.2.1",
