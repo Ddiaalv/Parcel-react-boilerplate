@@ -1,0 +1,4 @@
+{
+  "*.js": "npx eslint --fix",
+  "*.{scss,css}": "npx stylelint --fix",
+}
