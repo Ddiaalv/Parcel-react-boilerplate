@@ -9,6 +9,7 @@
     "lintcss": "npx stylelint --fix src/**/*.style.js src/**/*.scss",
     "lintjs": "npx eslint --fix src/**/*.{js,jsx}",
     "format": "npx prettier --write ./src/**/*.{html,css,js,jsx}",
+    "new:fc": "npx hygen fc new",
     "precommit": "lint-staged"
   },
   "keywords": [],
@@ -32,6 +33,7 @@
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-react": "^7.21.5",
     "husky": "^4.3.6",
+    "hygen": "^6.0.4",
     "lint-staged": "^10.5.3",
     "prettier": "2.2.1",
     "sass": "^1.30.0",

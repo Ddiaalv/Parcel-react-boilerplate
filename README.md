@@ -16,6 +16,7 @@ Paquete para crear rápidamente un entorno de desarrollo Front-end MUY simple.
 | 🚫[Lint-staged](https://github.com/okonet/lint-staged) | Ejecuta los linters para evitar errores en nuestros commit                 |
 | 🦋[Prettier](https://prettier.io/)                     | Formatea nuestro código                                                    |
 | 🐭[EditorConfig](https://editorconfig.org/)            | Permite configurar la forma en que se formatea el código de tu proyecto    |
+| 📜[Hygen](https://www.hygen.io/)                       | Generador de código                                                        |
 
 ## Scripts de npm
 
