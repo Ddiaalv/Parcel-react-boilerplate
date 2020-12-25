@@ -5,13 +5,19 @@
   "main": "index.js",
   "scripts": {
     "start": "parcel ./src/index.html",
-    "build": "parcel build ./src/index.html ./"
+    "build": "parcel build ./src/index.html ./",
+    "lintjs": "npx eslint --fix src/**/*.js"
   },
   "keywords": [],
   "author": "David Díaz Alvarez",
   "license": "ISC",
   "devDependencies": {
     "cssnano": "^4.1.10",
+    "eslint": "^7.16.0",
+    "eslint-config-standard": "^16.0.2",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
     "sass": "^1.30.0"
   }
 }

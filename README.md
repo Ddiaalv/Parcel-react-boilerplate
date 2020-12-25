@@ -7,6 +7,8 @@ Paquete para crear rápidamente un entorno de desarrollo Front-end MUY simple.
 | Nombre                            | Detalles                      |
 | --------------------------------- | ----------------------------- |
 | 📦[Parcel](https://parceljs.org/) | Bundler para aplicaciones web |
+| 👁️[Eslint](https://eslint.org/)   | Linter para controlar errores en nuestro código   |
+
 
 ## Scripts de npm
 
@@ -14,3 +16,4 @@ Paquete para crear rápidamente un entorno de desarrollo Front-end MUY simple.
 | ------- | ---------------------------------------------- |
 | `start` | Inicia server de desarrollo con bundler Parcel |
 | `build` | Genera nuestra web                             |
+| `lintjs`    | Comprueba/Corrige si hay errores en nuestro código Javascript |

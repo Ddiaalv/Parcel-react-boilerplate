@@ -1,3 +1,3 @@
-console.log("Hello world");
+console.log('Hello world')
 
-const irrelevantText = "Irrelevant text";
+const irrelevantText = 'Irrelevant text'
