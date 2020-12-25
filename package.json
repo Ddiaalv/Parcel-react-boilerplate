@@ -1,0 +1,10 @@
+{
+  "name": "parcel-react-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "David Díaz Alvarez",
+  "license": "ISC"
+}
