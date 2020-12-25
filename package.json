@@ -1,7 +1,7 @@
 {
   "name": "parcel-react-boilerplate",
   "version": "1.0.0",
-  "description": "",
+  "description": "Blank boilerplate starter-kit with Parcel and React",
   "main": "index.js",
   "scripts": {
     "start": "parcel ./src/index.html",
@@ -12,7 +12,22 @@
     "new:fc": "npx hygen fc new",
     "precommit": "lint-staged"
   },
-  "keywords": [],
+  "keywords": [
+    "parcel",
+    "boilerplate",
+    "html5",
+    "css3",
+    "javascript",
+    "eslint",
+    "stylelint",
+    "prettier",
+    "editorconfig",
+    "react",
+    "emotion",
+    "husky",
+    "lint-staged",
+    "hygen"
+  ],
   "author": "David Díaz Alvarez",
   "license": "ISC",
   "dependencies": {
