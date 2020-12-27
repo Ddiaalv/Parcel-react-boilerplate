@@ -1,5 +1,3 @@
-/** @jsx jsx */
-import { jsx } from '@emotion/react';
 import { h2Styled } from './App.style';
 
 export const App = () => (
