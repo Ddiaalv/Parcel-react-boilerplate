@@ -11,7 +11,7 @@
     "lintjs": "npx eslint --fix src/**/*.{js,jsx}",
     "format": "npx prettier --write ./src/**/*.{html,css,js,jsx}",
     "new:fc": "npx hygen fc new",
-    "predeploy": "npm run build",
+    "predeploy": "parcel build ./src/index.html -d ./build/ --public-url https://ddiaalv.github.io/parcel-react-boilerplate/",
     "deploy": "gh-pages -d build",
     "precommit": "lint-staged"
   },
@@ -40,6 +40,7 @@
     "react-dom": "^17.0.1"
   },
   "devDependencies": {
+    "cssnano": "^4.1.10",
     "eslint": "^7.16.0",
     "eslint-config-prettier": "^7.1.0",
     "eslint-config-standard": "^16.0.2",

@@ -4,19 +4,20 @@ Paquete para crear rápidamente un entorno de desarrollo Front-end MUY simple.
 
 ## Tecnologías
 
-| Nombre                                                 | Detalles                                                                   |
-| ------------------------------------------------------ | -------------------------------------------------------------------------- |
-| 📦[Parcel](https://parceljs.org/)                      | Bundler para aplicaciones web                                              |
-| 🌐[Javascript](https://www.typescriptlang.org/)        | Lenguaje de programación                                                   |
-| ⚛️[React](https://es.reactjs.org/)                     | JavaScript Framework                                                       |
-| 💅[Emotion](https://emotion.sh/)                       | CSS in JS - Permite usar Styled-Components                                 |
-| 👁️[Eslint](https://eslint.org/)                        | Linter para controlar errores en nuestro código                            |
-| 👁️[Stylelint](https://stylelint.io/)                   | Linter para controlar errores en nuestros estilos                          |
-| 🐺[Husky](https://www.npmjs.com/package/husky)         | Comprueba errores en nuestro código para evitar errores en nuestros commit |
-| 🚫[Lint-staged](https://github.com/okonet/lint-staged) | Ejecuta los linters para evitar errores en nuestros commit                 |
-| 🦋[Prettier](https://prettier.io/)                     | Formatea nuestro código                                                    |
-| 🐭[EditorConfig](https://editorconfig.org/)            | Permite configurar la forma en que se formatea el código de tu proyecto    |
-| 📜[Hygen](https://www.hygen.io/)                       | Generador de código                                                        |
+| Nombre                                                  | Detalles                                                                   |
+| ------------------------------------------------------- | -------------------------------------------------------------------------- |
+| 📦[Parcel](https://parceljs.org/)                       | Bundler para aplicaciones web                                              |
+| 🌐[Javascript](https://www.typescriptlang.org/)         | Lenguaje de programación                                                   |
+| ⚛️[React](https://es.reactjs.org/)                      | JavaScript Framework                                                       |
+| 💅[Emotion](https://emotion.sh/)                        | CSS in JS - Permite usar Styled-Components                                 |
+| 👁️[Eslint](https://eslint.org/)                         | Linter para controlar errores en nuestro código                            |
+| 👁️[Stylelint](https://stylelint.io/)                    | Linter para controlar errores en nuestros estilos                          |
+| 🐺[Husky](https://www.npmjs.com/package/husky)          | Comprueba errores en nuestro código para evitar errores en nuestros commit |
+| 🚫[Lint-staged](https://github.com/okonet/lint-staged)  | Ejecuta los linters para evitar errores antes de hacer un commit           |
+| 🦋[Prettier](https://prettier.io/)                      | Formatea nuestro código                                                    |
+| 🐭[EditorConfig](https://editorconfig.org/)             | Permite configurar la forma en que se formatea el código de tu proyecto    |
+| 📜[Hygen](https://www.hygen.io/)                        | Generador de código                                                        |
+| 👷[GitHub Actions](https://github.com/features/actions) | Workflow simple para desplegar aplicación en GitHub Pages                  |
 
 ## Scripts de npm
 
